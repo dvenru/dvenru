@@ -7,7 +7,7 @@
 - 🍕 I want pizza
 
 ![python](https://img.shields.io/badge/Python-0089BA?style=flat&logo=)
-![java](https://img.shields.io/badge/Java-FF9671?style=flat&logo=)
+![rust](https://img.shields.io/badge/Rust-FF9671?style=flat&logo=)
 #
 
 [![twitter](https://img.shields.io/badge/Twitter-222831?style=for-the-badge&logo=twitter)](https://twitter.com/DVEN_PRO)
