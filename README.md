@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/dvenru" target="_blank">DVEN</a> 
+<h1 align="center">Hi, I'm <a href="https://github.com/dvenru" target="_blank">.dvem</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Let's be friends!</h4>
+<h4 align="center">Let's be friends :3</h4>
 
 - 💤 I like to sleep
 - 🧑🏻‍💻 I'm learning GameDev
