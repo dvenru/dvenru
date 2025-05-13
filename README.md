@@ -17,7 +17,6 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&color=e63946&logoColor=white)
 
-[![twitter](https://img.shields.io/badge/Twitter-222831?style=for-the-badge&logo=twitter&logoColor=white&color=black)](https://twitter.com/dvenru)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&color=e63946)](https://dotdven.itch.io/)
 
 </div>
